@@ -6,7 +6,6 @@ Inorder to complete this & make it fully functional, someone who is familiar wit
 
 Issues:  
           1. Unable to publish repository to GitHub pages.
-          
           2. React state variables aren't updating properly.
           
           
