@@ -1,3 +1,24 @@
+                                          Important Note.........................................Must Read....!!!
+
+This particular repository is not fully functional or complete yet.
+Inorder to complete this & make it fully functional, someone who is familiar with react.js can contribute as this consists of frontend issues.
+Issues:  
+          1. Unable to publish repository to GitHub pages.
+          2. React state variables aren't updating properly.
+          
+          
+All of your contributions are really valuable and are deeply appreciated.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
