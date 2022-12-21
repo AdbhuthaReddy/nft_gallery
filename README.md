@@ -1,4 +1,4 @@
-                                          Important Note.........................................Must Read....!!!
+                                   Important Note.........................................Must Read....!!!
 
 This particular repository is not fully functional or complete yet.
 
